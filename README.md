@@ -1,6 +1,6 @@
 # Bright Data's Turkey Proxies
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/locations/tr) 
+[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.com/locations/tr) 
 
 ## Overview
 Experience seamless scraping with Bright Data's [Turkey proxies](https://brightdata.com/locations/tr), designed to provide precise targeting, unmatched stability, and rapid response times. Start scraping websites from Turkey and don't get blocked again.
@@ -39,7 +39,7 @@ Experience seamless scraping with Bright Data's [Turkey proxies](https://brightd
 - **3G/4G/5G mobile IPs**
 - **24/7 global support**
 
-Sign up and receive a dollar-for-dollar match on your first deposit, up to $500!
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/locations/tr) 
 
 ## Getting Started with Bright Data's Turkey proxies
 1. **Start Free Trial**: No credit card required.
